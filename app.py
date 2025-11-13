@@ -612,7 +612,7 @@ st.markdown("""
     </p>
     <p style='color: #444; margin: 0.3rem 0;'>
         👨‍💻 João Vitor Ribeiro de Oliveira - RA: 813109<br>
-        👨‍💻 Levir Daymmon - RA: XXXXXX
+        👨‍💻 Levir Daymmon Cardoso de Oliveira - RA: 790285
     </p>
     <p style='color: #999; margin: 1.5rem 0 0 0; font-size: 0.9rem;'>
         Dados do Instituto Brasileiro de Geografia e Estatística (IBGE) | 9 Visualizações Interativas
